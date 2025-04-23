@@ -13,5 +13,9 @@ struct C1_AssistApp: App {
         WindowGroup {
             ContentView()
         }
+        .windowResizability(.contentSize)
+        .defaultSize(width: 500, height: 400)
+        .windowStyle(.automatic)
+        .defaultPosition(.center)
     }
 }

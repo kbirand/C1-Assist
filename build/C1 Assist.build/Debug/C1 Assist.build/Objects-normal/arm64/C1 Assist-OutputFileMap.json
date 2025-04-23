@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/C1 Assist-master.dia",
+    "emit-module-dependencies" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/C1 Assist-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/C1 Assist-master-emit-module.dia",
+    "swift-dependencies" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/C1 Assist-master.swiftdeps"
+  },
+  "/Users/koraybirand/Desktop/C1 Assist/C1 Assist/C1_AssistApp.swift" : {
+    "const-values" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/C1_AssistApp.swiftconstvalues",
+    "dependencies" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/C1_AssistApp.d",
+    "diagnostics" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/C1_AssistApp.dia",
+    "index-unit-output-path" : "/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/C1_AssistApp.o",
+    "llvm-bc" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/C1_AssistApp.bc",
+    "object" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/C1_AssistApp.o",
+    "swift-dependencies" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/C1_AssistApp.swiftdeps",
+    "swiftmodule" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/C1_AssistApp~partial.swiftmodule"
+  },
+  "/Users/koraybirand/Desktop/C1 Assist/C1 Assist/ContentView.swift" : {
+    "const-values" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/koraybirand/Desktop/C1 Assist/C1 Assist/DatabaseManager.swift" : {
+    "const-values" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/DatabaseManager.swiftconstvalues",
+    "dependencies" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/DatabaseManager.d",
+    "diagnostics" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/DatabaseManager.dia",
+    "index-unit-output-path" : "/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/DatabaseManager.o",
+    "llvm-bc" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/DatabaseManager.bc",
+    "object" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/DatabaseManager.o",
+    "swift-dependencies" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/DatabaseManager.swiftdeps",
+    "swiftmodule" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/DatabaseManager~partial.swiftmodule"
+  },
+  "/Users/koraybirand/Desktop/C1 Assist/C1 Assist/ProjectManager.swift" : {
+    "const-values" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ProjectManager.swiftconstvalues",
+    "dependencies" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ProjectManager.d",
+    "diagnostics" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ProjectManager.dia",
+    "index-unit-output-path" : "/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ProjectManager.o",
+    "llvm-bc" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ProjectManager.bc",
+    "object" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ProjectManager.o",
+    "swift-dependencies" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ProjectManager.swiftdeps",
+    "swiftmodule" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/ProjectManager~partial.swiftmodule"
+  },
+  "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/koraybirand/Desktop/C1 Assist/build/C1 Assist.build/Debug/C1 Assist.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

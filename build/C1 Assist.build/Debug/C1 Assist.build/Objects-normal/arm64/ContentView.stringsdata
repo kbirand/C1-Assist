@@ -1,0 +1,80 @@
+{
+  "source": "/Users/koraybirand/Desktop/C1 Assist/C1 Assist/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Project Generator",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Project Name:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter project name",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Folder Count:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter number of folders",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Project Location:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Browse",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Generate",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 113
+        }
+      }
+    ]
+  },
+  "version": 1
+}
